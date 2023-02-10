@@ -2,6 +2,7 @@
 <h2>Projects for Systems Engineering and Design Purposes:</h2>
 <ul>
 <li><h3><a href="https://github.com/Qyt0109/Adruino-Node-MCU-humidity-temperature-monitor">Adruino Node MCU Humidity Temperature Monitor</a></h3></li>
+<li><h3><a href="https://github.com/Qyt0109/8051-Microcontroller">Basic 8051 Microcontroller</a></h3></li>
 </ul>
 <hr>
 <h4>Definition</h4>
