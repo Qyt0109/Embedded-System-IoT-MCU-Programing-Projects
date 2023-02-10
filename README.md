@@ -1,5 +1,5 @@
 # Embedded-System-IoT-MCU-Programing-Projects
-<h2>Projects for Engineering Systems and Design Purposes:</h2>
+<h2>Projects for Systems Engineering and Design Purposes:</h2>
 <ul>
 <li><h3><a href="https://github.com/Qyt0109/Adruino-Node-MCU-humidity-temperature-monitor">Adruino Node MCU Humidity Temperature Monitor</a></h3></li>
 </ul>
